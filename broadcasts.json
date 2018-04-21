@@ -2,5 +2,13 @@
   {
     "id": "bc-1",
     "message": "\n&7Join our Discord server using &a/discord\n "
+  },
+  {
+    "id": "bc-2",
+    "message": "\n&7Report server and map issues using &a/issue\n "
+  },
+  {
+    "id": "bc-3",
+    "message": "\n&7See which map will play next using &a/next\n "
   }
 ]
