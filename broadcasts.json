@@ -1,7 +1,7 @@
 [
   {
     "id": "bc-1",
-    "message": "\n&7Join our Discord server using &a/discord\n "
+    "message": "\n&7Join our Discord server using &b/discord\n "
   },
   {
     "id": "bc-2",
@@ -9,6 +9,6 @@
   },
   {
     "id": "bc-3",
-    "message": "\n&7See which map will play next using &a/next\n "
+    "message": "\n&7Check your stats using &c/stats\n "
   }
 ]
