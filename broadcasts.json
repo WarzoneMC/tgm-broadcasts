@@ -1,14 +1,26 @@
 [
   {
-    "id": "bc-1",
+    "id": "discord",
     "message": "\n&7Join our Discord server using &b/discord\n "
   },
   {
-    "id": "bc-2",
+    "id": "issue",
     "message": "\n&7Report server and map issues using &a/issue\n "
   },
   {
-    "id": "bc-3",
+    "id": "stats",
     "message": "\n&7Check your stats using &c/stats\n "
+  },
+  {
+    "id": "shop",
+    "message": "\n&7Support the server by checking out our &6/store\n "
+  },
+  {
+    "id": "forums",
+    "message": "\n&7Make sure to join our &9/forums\n "
+  },
+  {
+    "id": "report",
+    "message": "\n&7See someone breaking the rules? Report them on our &b/discord\n "
   }
 ]
