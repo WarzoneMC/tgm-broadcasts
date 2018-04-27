@@ -35,5 +35,9 @@
   {
     "id": "welcome",
     "message": "\n\n\n&dHey there! Welcome to Warzone. Type &5/join &dto get started.\n "
+  },
+  {
+    "id": "map",
+    "message": "\n&7If you would like to see who made this map, use the &a/map &7command.\n "
   }
 ]
