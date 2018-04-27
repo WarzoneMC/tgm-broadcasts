@@ -17,10 +17,18 @@
   },
   {
     "id": "forums",
-    "message": "\n&7Make sure to join our &9/forums\n "
+    "message": "\n&7Make sure to join our &d/forums\n "
   },
   {
     "id": "report",
     "message": "\n&7See someone breaking the rules? Report them on our &b/discord\n "
+  },
+  {
+    "id": "github",
+    "message": "\n&7Want to help make the server? Check out our &e/github\n "
+  },
+  {
+    "id": "report",
+    "message": "\n&7Interested in making a map for Warzone? Join our &d/fourms\n "
   }
 ]
