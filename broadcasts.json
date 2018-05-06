@@ -40,6 +40,9 @@
     "id": "map",
     "message": "\n \n \n&7If you would like to see who made this map, use the &a/map &7command.\n "
   },
+  { "id": "teamchat",
+    "message":"\n \n \n&7Need to talk to your team? Use &e/t \n "
+  },
   {
     "id": "join",
     "message": "&7%s joined."
