@@ -4,7 +4,7 @@ Warzone preset Broadcasts
 ## Updating the broadcasts
 
 - When making a pull request to this repo, make sure you first follow the general format of the rest of the broadcasts (blank line before and after the broadcast).
-- Make sure you also include the resasoning for the changes you are making. 
+- Make sure you also include the reasoning for the changes you are making. 
 
 ## How to setup
 
