@@ -1,11 +1,11 @@
 [
   {
     "id": "discord",
-    "message": "\n&7Join our Discord server using &b/discord\n "
+    "message": "\n&7Join our Discord server listed in &b/Discord&7!\n "
   },
   {
-    "id": "issue",
-    "message": "\n&7Report server and map issues using &a/issue\n "
+    "id": "tournament",
+    "message": "\n&7Stay tuned for our next tournament when it gets announced on our Discord! &b/Discord\n "
   },
   {
     "id": "stats",
@@ -18,19 +18,19 @@
   },
   {
     "id": "forums",
-    "message": "\n&7Make sure to join our &d/forums\n "
+    "message": "\n&7Check out our forums to socialize with the community! &dhttps://warzone.network\n "
   },
   {
     "id": "report",
-    "message": "\n&7See someone breaking the rules? Report them on our &b/discord\n "
+    "message": "\n&7See someone breaking the rules? Report them on our forums! &bhttps://warzone.network\n "
   },
   {
     "id": "github",
-    "message": "\n&7Want to help make the server? Check out our &e/github\n "
+    "message": "\n&7Want to help make the server? Check out our github! &ehttps://github.com/WarzoneMC\n "
   },
   {
     "id": "mapmaking",
-    "message": "\n&7Interested in making a map for Warzone? Join our &d/forums\n "
+    "message": "\n&7Interested in making a map for Warzone? Try checking out our forums! &dhttps://warzone.network\n "
   },
   {
     "id": "welcome",
