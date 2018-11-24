@@ -19,11 +19,7 @@
   {
     "id": "server",
     "message": "\n&7Join back with the IP &bplay.warzone.network &7or using &b/join Warzone &7from the lobby!\n "
-  },
-  {
-    "id": "applications",
-    "message": "\n&7Interested in volunteering for Warzone? Apply to our staff team to help moderate our server and Discord! &bhttps://link.bennydoesstuff.me/Nov18\n "
-  },
+  }
   {
     "id": "forums",
     "message": "\n&7Check out our forums to socialize with the community! &dhttps://warzone.network\n "
