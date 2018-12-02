@@ -4,10 +4,6 @@
     "message": "\n&7Join our Discord server listed in &b/Discord&7!\n "
   },
   {
-    "id": "tournament",
-    "message": "\n&7Don't forget to sign up for our next tournament &bDecember Destruction &7being hosted on &bDecember 1st &7on our Discord. &b/Discord\n "
-  },
-  {
     "id": "stats",
     "message": "\n&7Check your stats using &c/stats\n "
   },
