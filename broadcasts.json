@@ -22,11 +22,11 @@
   },
   {
     "id": "forums",
-    "message": "\n&7Check out our forums to socialize with the community! &dhttps://warzone.network\n "
+    "message": "\n&7Check out our forums to socialize with the community! &dhttps://warzone.forums.gg\n "
   },
   {
     "id": "report",
-    "message": "\n&7See someone breaking the rules? Report them on our forums! &bhttps://warzone.network\n "
+    "message": "\n&7See someone breaking the rules? Report them on our forums! &bhttps://warzone.forums.gg\n "
   },
   {
     "id": "github",
@@ -34,7 +34,7 @@
   },
   {
     "id": "mapmaking",
-    "message": "\n&7Interested in building a map for Warzone? Try checking out our forums! &dhttps://warzone.network\n "
+    "message": "\n&7Interested in building a map for Warzone? Try checking out our forums! &dhttps://warzone.forums.gg\n "
   },
   {
     "id": "welcome",
