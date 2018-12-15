@@ -37,6 +37,10 @@
     "message": "\n&7Interested in building a map for Warzone? Try checking out our forums! &dhttps://warzone.forums.gg\n "
   },
   {
+    "id": "lag",
+    "message": "\n&7Experiencing lag? Try using &bplay.warzone.network instead of Minehut.\n "
+  },
+  {
     "id": "welcome",
     "message": "\n \n \n&dHey there! Welcome to Warzone. Type &5/join &dto get started.\n "
   },
