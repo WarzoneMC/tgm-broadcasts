@@ -26,7 +26,7 @@
   },
   {
     "id": "report",
-    "message": "\n&7See someone breaking the rules? Report them on our forums! &bhttps://warzone.forums.gg\n "
+    "message": "\n&7Found someone that might be hacking? Report them using the command &b/report&7!\n "
   },
   {
     "id": "github",
