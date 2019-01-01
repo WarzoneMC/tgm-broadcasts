@@ -33,6 +33,9 @@
     "message": "\n&7Want to help develop the server? Check out our Github! &ehttps://github.com/WarzoneMC\n "
   },
   {
+     "id": "ip",
+     "message": "\n&7Experiencing Lag? Try our direct IP &bplay.warzone.network\n "
+  {
     "id": "mapmaking",
     "message": "\n&7Interested in building a map for Warzone? Try checking out our forums! &dhttps://warzone.forums.gg\n "
   },
