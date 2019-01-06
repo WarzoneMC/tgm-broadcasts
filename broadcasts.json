@@ -25,6 +25,10 @@
     "message": "\n&7Check out our forums to socialize with the community! &dhttps://warzone.forums.gg\n "
   },
   {
+    "id": "lag",
+    "message": "\n&7Experiencing Lag? Try our direct IP &bplay.warzone.network\n "
+  },
+  {
     "id": "report",
     "message": "\n&7Found someone that might be hacking? Report them using the command &b/report&7!\n "
   },
