@@ -18,7 +18,7 @@
   },
   {
     "id": "server",
-    "message": "\n&7Join back with the IP &bplay.warzone.network &7or using &b/join Warzone &7from the lobby!\n "
+    "message": "\n&7Join back with the IP &bplay.warz.one &7or using &b/join Warzone &7from the lobby!\n "
   },
   {
     "id": "forums",
@@ -26,7 +26,7 @@
   },
   {
     "id": "lag",
-    "message": "\n&7Experiencing Lag? Try our direct IP &bplay.warzone.network\n "
+    "message": "\n&7Experiencing Lag? Try our direct IP &bplay.warz.one\n "
   },
   {
     "id": "report",
