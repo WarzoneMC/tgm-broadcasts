@@ -38,7 +38,7 @@
   },
   {
     "id": "map",
-    "message": "\n \n \n&7View the builders of this map by using the &a/map &7command.\n "
+    "message": "\n&7View the builders of this map by using the &a/map &7command.\n "
   },
   {
     "id": "join",
