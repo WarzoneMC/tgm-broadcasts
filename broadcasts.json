@@ -1,7 +1,11 @@
 [
   {
     "id": "discord",
-    "message": "\n&7Join our Discord server listed in &b/Discord&7!\n "
+    "message": "\n&7Join our Discord server listed in &b/discord&7!\n "
+  },
+  {
+    "id": "forums",
+    "message": "\n&7Keep up-to-date with Warzone by checking out our forums! &ehttps://warz.one/forums\n "
   },
   {
     "id": "stats",
@@ -15,10 +19,6 @@
   {
     "id": "server",
     "message": "\n&7Join back with the IP &bplay.warz.one &7or using &b/join Warzone &7from the lobby!\n "
-  },
-  {
-    "id": "lag",
-    "message": "\n&7Experiencing Lag? Try our direct IP &bplay.warz.one\n "
   },
   {
     "id": "report",
