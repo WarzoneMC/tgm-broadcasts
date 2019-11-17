@@ -38,7 +38,7 @@
   },
   {
     "id": "welcome",
-    "message": "\n \n \n&dHey there! Welcome to Warzone. Type &5/join &dto get started.\n "
+    "message": "\n \n \n&7Hey there! Welcome to Warzone. Type &d/join &7to get started.\n "
   },
   {
     "id": "map",
