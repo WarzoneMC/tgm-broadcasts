@@ -1,5 +1,9 @@
 [
   {
+    "id": "news",
+    "message": "\n&aOur store has been reopened! &bhttps://warz.one/store\n "
+  },
+  {
     "id": "discord",
     "message": "\n&7Join our Discord server listed in &b/discord&7!\n "
   },
