@@ -55,5 +55,9 @@
   {
     "id": "leave",
     "message": "&7%s left."
+  },
+  {
+    "id": "stats_off",
+    "message": "\n&cStat tracking is currently disabled.\n "
   }
 ]
