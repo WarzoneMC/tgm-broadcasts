@@ -1,7 +1,7 @@
 [
   {
     "id": "news",
-    "message": "\n&aOur store has been reopened! &bhttps://warz.one/store\n "
+    "message": "\n&7Donate to help support Warzone! &bhttps://warz.one/store\n "
   },
   {
     "id": "discord",
@@ -14,6 +14,10 @@
   {
     "id": "website",
     "message": "\n&7Check out our website to view additional stats! &ehttps://warz.one/\n "
+  },
+  {
+    "id": "advertise",
+    "message": "\n&7Help us gain players by advertising Warzone! &b/ad Warzone <ad> &7from the lobby.\n "
   },
   {
     "id": "stats",
