@@ -4,6 +4,10 @@
     "message": "\n&7Donate to help support Warzone! &bhttps://warz.one/store\n "
   },
   {
+    "id": "clicking",
+    "message": "\n&7Butterfly and dragclicking methods are a &cbannable offense.\n&7Use them at your own risk.\n "
+  },
+  {
     "id": "discord",
     "message": "\n&7Join our Discord server listed in &b/discord&7!\n "
   },
