@@ -42,11 +42,15 @@
   },
   {
     "id": "github",
-    "message": "\n&7Want to help develop the server? Check out our Github! &ehttps://github.com/Warzone\n "
+    "message": "\n&7Want to help develop the server? Check out our GitHub! &ehttps://github.com/Warzone\n "
+  },
+  {
+    "id": "twitter",
+    "message": "\n&7Stay up-to-date with tournaments, events, updates and more by following us on Twitter @ &bhttps://twitter.com/WarzoneMC\n "
   },
   {
     "id": "mapmaking",
-    "message": "\n&7Interested in building a map for Warzone? Try checking out our Discord! &b/discord\n "
+    "message": "\n&7Interested in building a map for Warzone? Try checking out our Discord server! &b/discord\n "
   },
   {
     "id": "welcome",
