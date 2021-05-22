@@ -71,5 +71,9 @@
   {
     "id": "tournament",
     "message": "\n  &a&lWarzone's Returnament 2: Electric Boogaloo \n           &9Saturday, March 20th at 2 PM EST \n&7Join our Discord server using &b/discord &7for more information!\n "
+  },
+    {
+    "id": "infected-event",
+    "message": "&r\n &r &r &r &r &r &r &r &r &r &r &r &2&lInfection event!\n&7Join using &binfected.minehut.gg &7or join from the Minehut lobby through &b/join Infected!\n&r"
   }
 ]
