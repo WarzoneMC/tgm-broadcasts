@@ -75,5 +75,17 @@
     {
     "id": "infected-event",
     "message": "&r\n &r &r &r &r &r &r &r &r &r &r &r &2&lInfection event!\n&7Join using &binfected.minehut.gg &7or join from the Minehut lobby through &b/join Infected!\n&r"
-  }
+  },
+	{
+		"id": "staff-application",
+		"message": "\n&7Want to help moderate Warzone? Staff applications are currently &2open&7! Join our Discord server using &b/discord&7 for more information.\n"
+	},
+	{
+		"id": "staff-vs-players-event",
+		"message": "&r\n &r &r &r &r &r &r &r &r &r &r &r &6&lStaff vs Players event!\n&7Join us at the Staff vs Players event here on Warzone on &bSaturday, July 17th @ 2:00 PM EST&7!\n&r"
+	},
+	{
+		"id": "tag-sale",
+		"message": "&r\n &r &r &r &r &r &r &r &r &r &r &r &9&lNEW TAGS &7&l+ &a&lSALE!\n&7Check out the new tags at &bhttps://warz.one/store&7 and make sure to get yourself one before the &c&l25%% off sale&7 ends!\n&r"
+	}
 ]
