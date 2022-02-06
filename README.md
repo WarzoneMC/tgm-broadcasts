@@ -1,5 +1,6 @@
 # Broadcasts
-Warzone preset Broadcasts
+
+Formerly Warzone's preset broadcasts (depreciated).
 
 ## Updating the broadcasts
 
